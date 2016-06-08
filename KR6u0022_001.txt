@@ -1,20 +1,19 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-31 05:55:36.620208
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 15:01
 #+TITLE: 佛為心王菩薩說投陀經卷上
 #+PROPERTY: CBETA_ID T85n2886
 #+PROPERTY: ID KR6u0022
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 85, No. 2886
 #+PROPERTY: VOL 85
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6u0022_T_000-1401c>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6u0022_T_001-1401c> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.2886¶
-
- 佛為心王菩薩說投陀經卷上¶
+No. 2886¶
+佛為心王菩薩說投陀經卷上¶
 ¶
 五陰山室寺惠辨禪師註¶
 
@@ -133,7 +132,7 @@ No.2886¶
 體。言下有名解了還無故曰方便。前念由淺。後念轉深。深相平等名為具足)其年雖小常¶
 樂出家。學無上道(初入定門。道未成。名為年小。心無間念曰定。從定起惠。名為出¶
 家。學者學性平等。故曰無上道也)不樂世事。常修少欲知足之¶
-行(端心自守。五陰消亡故不樂世尊意滿無求。名為知足)修六和敬。眼與色和
+行(端心自守。五陰消亡故不樂世尊意滿無求。名為知足)修六和敬。眼興色和
 <pb:KR6u0022_T_001-1403b>¶
 (心滅境亡。體無分別。色心不二。合一相理也)何以故。心不緣色。妄識不¶
 生。即是和義(和者合也。合一切空。空故名義。義即是佛)餘如上說。動靜¶
